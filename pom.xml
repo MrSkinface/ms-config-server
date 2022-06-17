@@ -13,6 +13,13 @@
     <name>ms-config-server</name>
     <description>ms-config-server</description>
 
+    <repositories>
+        <repository>
+            <id>brewery-starter</id>
+            <url>https://maven.pkg.github.com/MrSkinface/ms-brewery-starter</url>
+        </repository>
+    </repositories>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
