@@ -1,1 +1,4 @@
-# ms-config-server
+
+
+# Config server
+Cloud config server for brewery microservices
