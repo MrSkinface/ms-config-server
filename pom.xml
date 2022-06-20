@@ -5,9 +5,8 @@
     <parent>
         <groupId>ua.mike</groupId>
         <artifactId>ms-brewery-starter</artifactId>
-        <version>0.0.12</version>
+        <version>0.0.13</version>
     </parent>
-    <groupId>ua.mike</groupId>
     <artifactId>ms-config-server</artifactId>
     <version>1.0.0</version>
     <name>ms-config-server</name>
